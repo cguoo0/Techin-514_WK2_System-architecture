@@ -4,3 +4,8 @@ This device is designed for individuals with visual impairments, such as blind p
 
 
 [System architecture_WK2.pdf](https://github.com/cguoo0/Techin-514_WK2_System-architecture/files/13959659/System.architecture_WK2.pdf)
+
+<img width="951" alt="Screen Shot 2024-01-16 at 23 11 16" src="https://github.com/cguoo0/Techin-514_WK2_System-architecture/assets/148395285/587c057f-60f6-4703-b659-14e4bddb8275">
+<img width="951" alt="Screen Shot 2024-01-16 at 23 11 18" src="https://github.com/cguoo0/Techin-514_WK2_System-architecture/assets/148395285/873c89cd-c93c-4b23-a4ac-489eab4f077b">
+<img width="951" alt="Screen Shot 2024-01-16 at 23 11 21" src="https://github.com/cguoo0/Techin-514_WK2_System-architecture/assets/148395285/5b355281-116c-4b21-9097-b46b118709c6">
+<img width="951" alt="Screen Shot 2024-01-16 at 23 11 24" src="https://github.com/cguoo0/Techin-514_WK2_System-architecture/assets/148395285/cdc2c9de-2791-44c2-904c-fc6e3509278d">
